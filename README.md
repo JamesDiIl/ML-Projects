@@ -1,2 +1,2 @@
 # ML-Projects
-Analysis of two datasets using Linear/Logistic Regression
+Analysis of some datasets using Linear/Logistic Regression
